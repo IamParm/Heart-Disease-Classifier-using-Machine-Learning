@@ -1,3 +1,6 @@
+
+![image](https://user-images.githubusercontent.com/88454048/163079219-d3b0ff69-ac97-43d0-beff-80a7cd3abf3a.png)
+
 # Description
 In this project, I will be analyzing the UCI Heart Disease dataset to develop a classification Machine Learning model able to distinguish between the symptoms of heart disease patients. I  will also build a simple Desktop Graphical User Interface to classify patient data on-demand.
 
